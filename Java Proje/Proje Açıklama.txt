@@ -1,0 +1,7 @@
+   Java Projesi
+
+ İlk olarak bir main classı açıldı. daha sonra input almak ve gerekli işlemlerin yazılacağı class tanımlandı. sıraya göre gelecek olan ilk ekran ve ikinci ekrana int değer atandı ve sisteme giriş için bir hoşgeldiniz yazısı println ile ekrana bastırıldı.
+Bir while döngüsü açıp önce ilk ekrana bastırılacak olan Üye ekleme ve mesaj gönderme işlemleri switch case ile oluşturuldu.
+Bu switch in 3. caseine de ikinci ekranda bastırılacak olan mail gönderme işlemleri tanımlandı.
+ İşlemler Classına methodlarımıza atama yaptıktan sonra private kullanılarak üye ekleme ve giriş seçenekleri gerekli değerlerle tanımlandı. Daha sonra public ile uyeEkle methodu oluşturuldu. Gerekli kodlar yazıldıktan sonra elit üye ve genel üye ekleme methodları yazıldı. Sonra public kullanılarak mailGonder methodu oluşturuldu. buradan elit, genel, tüm, üyelere olacak şekilde mail gönderme kodları yazıldı.
+ Genel ve elit üyelerin bilgilerinin kaydedileceği classlar oluşturuldu.
